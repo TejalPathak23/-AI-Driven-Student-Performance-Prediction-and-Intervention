@@ -1,0 +1,54 @@
+Student ID,First Name,Last Name,Gender,Age,Date of Birth,Grade Level,Socioeconomic Status (SES),Ethnicity,Primary Language Spoken at Home,Parents' Education Level,Special Needs,Residential Address,Parent/Guardian Contact Information,Transportation,Free/Reduced Lunch Status
+S0019,Nalani,Ito,Female,12,2011-02-14,7th Grade,Middle-income,Japanese,Japanese,Bachelor's degree,No,"1234 Kilauea Ave, Hilo, HI 96720","808-555-1234 nito@hawaii.edu
+This is a sample text to fill the Parent/Guardian Contact Information field.
+I will provide more information about my child's special needs and dietary restrictions during the parent-teacher conference.
+Please contact me at 808-555-1234 or nito@hawaii.edu if you need anything.",Car,No
+S001,Akira,Ito,Female,12,2009-08-15,6th Grade,Middle-income,Japanese,Japanese,Bachelor's degree,Dyslexia,"123-456 Tokyo, Japan","Phone: 03-1234-5678, Email: [akira.itto@email.com](mailto:akira.itto@email.com)",Walk,No
+S002,Kofi,Amponsah,Male,11,2011-02-20,5th Grade,Low-income,Ghanaian,Akan,High school diploma,No,"2345 Accra, Ghana","Phone: 00233-1234-5678, Email: [kofi.amponsah@email.com](mailto:kofi.amponsah@email.com)",Bus,Yes
+S003,Luna,Garcia,Non-binary,14,2008-01-01,8th Grade,High-income,Mexican,Spanish,Master's degree,Autism Spectrum Disorder,"6789 Mexico City, Mexico","Phone: 52-1234-5678, Email: [luna.garcia@email.com](mailto:luna.garcia@email.com)",Car,No
+S004,Zain,Hussain,Male,13,2009-06-10,7th Grade,Middle-income,Pakistani,Urdu,Bachelor's degree,No,"3456 Lahore, Pakistan","Phone: 92-1234-5678, Email: [zain.hussain@email.com](mailto:zain.hussain@email.com)",Walk,No
+S005,Nalani,Ratnam,Female,12,2009-12-25,6th Grade,High-income,Sri Lankan,Sinhala,Master's degree,ADHD,"7890 Colombo, Sri Lanka","Phone: 94-1234-5678, Email: [nalani.ratnam@email.com](mailto:nalani.ratnam@email.com)",Car,No
+S006,Yara,Saeed,Female,11,2011-09-02,5th Grade,Low-income,Yemeni,Arabic,High school diploma,No,"3456 Sana'a, Yemen","Phone: 967-1234-5678, Email: [yara.saeed@email.com](mailto:yara.saeed@email.com)",Bus,Yes
+S007,Cai,Wang,Male,14,2008-03-15,8th Grade,Middle-income,Chinese,Mandarin,Bachelor's degree,Dyscalculia,"2345 Beijing, China","Phone: 86-1234-5678, Email: [cai.wang@email.com](mailto:cai.wang@email.com)",Walk,No
+S008,Leila,Musa,Female,13,2009-04-22,7th Grade,High-income,Somali,Somali,Master's degree,No,"6789 Mogadishu, Somalia","Phone: 252-1234-5678, Email: [leila.musa@email.com](mailto:leila.musa@email.com)",Car,No
+S009,Sora,Kim,Female,12,2009-11-05,6th Grade,Middle-income,Korean,Korean,Bachelor's degree,Vision impairment,"1234 Seoul, South Korea","Phone: 82-1234-5678, Email: [sora.kim@email.com](mailto:sora.kim@email.com)",Walk,No
+S010,Amara,Okoro,Non-binary,11,2011-08-28,5th Grade,Low-income,Nigerian,Igbo,High school diploma,No,"5678 Lagos, Nigeria","Phone: 234-1234-5678, Email: [amara.okoro@email.com](mailto:amara.okoro@email.com)",Bus,Yes
+S00019,Kaito,Nguyen,Male,12,2011-02-15,6th Grade,Middle-income,Vietnamese,Vietnamese,Bachelor's degree,Dyslexia,"1234 Oak Street, Hanoi, Vietnam","Phone: +84 123 456 7890, Email: kaito.nguyen@hanoi.edu.vn",Bus,No
+S00020,Akira,Patel,Non-binary,15,2008-09-22,10th Grade,High-income,Indian,English,Master's degree,No,"5678 Maple Street, Mumbai, India","Phone: +91 987 654 3210, Email: akira.patel@mumbai.edu.in",Car,No
+S00021,Leila,Martinez,Female,11,2012-05-30,5th Grade,Low-income,Hispanic,Spanish,High school diploma,Speech delay,"9012 Pine Street, Lima, Peru","Phone: +51 666 777 8888, Email: leila.martinez@lima.edu.pe",Walk,Yes
+S00022,Nalani,Liu,Female,14,2009-01-10,9th Grade,Middle-income,Chinese,Mandarin,Bachelor's degree,No,"3456 Cedar Street, Hong Kong","Phone: +852 555 123 4567, Email: nalani.liu@hk.edu.hk",Bus,No
+S00023,Zainab,Alvarez,Female,13,2010-03-15,8th Grade,Low-income,African,Swahili,High school diploma,Visual impairment,"7890 Spruce Street, Nairobi, Kenya","Phone: +254 444 555 6666, Email: zainab.alvarez@nairobi.edu.ke",Walk,Yes
+S00024,Clementine,Santos,Female,12,2011-08-20,6th Grade,Middle-income,Portuguese,Portuguese,Master's degree,No,"2345 Elm Street, Lisbon, Portugal","Phone: +351 666 777 8888, Email: clementine.santos@lisbon.edu.pt",Bus,No
+S00025,Yara,Raj,Female,15,2008-06-05,10th Grade,High-income,Indian,English,Bachelor's degree,No,"9012 Oak Street, Dubai, UAE","Phone: +971 123 456 7890, Email: yara.raj@dubai.edu.ae",Car,No
+S00026,Liam,Kim,Male,11,2012-10-25,5th Grade,Low-income,Korean,Korean,High school diploma,ADHD,"3456 Maple Street, Seoul, South Korea","Phone: +82 123 456 7890, Email: liam.kim@seoul.edu.kr",Walk,Yes
+S00027,Akira,Lee,Female,14,2009-04-15,9th Grade,Middle-income,Korean,Korean,Bachelor's degree,No,"5678 Pine Street, Tokyo, Japan","Phone: +81 987 654 3210, Email: akira.lee@tokyo.edu.jp",Bus,No
+S00028,Nalani,Garcia,Male,13,2010-11-10,8th Grade,Low-income,Hispanic,Spanish,High school diploma,Hearing impairment,"9012 Cedar Street, Madrid, Spain","Phone: +34 555 123 4567, Email: nalani.garcia@madrid.edu.es",Walk,Yes
+S00029,Clementine,Huang,Female,12,2011-09-01,6th Grade,Middle-income,Chinese,Mandarin,Master's degree,No,"2345 Spruce Street, Shanghai, China","Phone: +86 666 777 8888, Email: clementine.huang@shanghai.edu.cn",Bus,No
+S00030,Yara,Mendez,Female,15,2008-03-20,10th Grade,High-income,Hispanic,Spanish,Bachelor's degree,No,"1234 Maple Street, Buenos Aires, Argentina","Phone: +54 123 456 7890, Email: yara.mendez@buenosaires.edu.ar",Car,No
+S00123,Kaito,Ito,Male,12,2011-02-16,6th Grade,Middle-income,Japanese,Japanese,Bachelor's degree,No,"1234 5th St, Tokyo, Japan","{""Phone"": ""+81 1234567890"", ""Email"": ""kaito.ito@gmail.com""}",Walk,No
+S0016,Evelyn,Alvarado,Female,12,2011-06-02,6th Grade,Middle-income,Hispanic,Spanish,Bachelor's degree,Dyslexia,"12345 SW 3rd Street, Portland, OR 97219","555-123-4567, evelyn_alvarado@email.com",Bus,No
+S0017,Kofi,Balogun,Male,9,2013-02-15,4th Grade,High-income,Nigerian,English,Master's degree,,"98765 NW 5th Avenue, Miami, FL 33147","555-789-0123, kofi_balogun@email.com",Car,No
+S0018,Leila,Kumar,Female,11,2012-05-20,5th Grade,Low-income,Indian,Hindi,High school diploma,Hearing impairment,"23456 SE 2nd Street, New York, NY 10001","555-901-2345, leila_kumar@email.com",Walk,Yes
+S0019,Akira,Sakai,Non-binary,10,2013-01-10,4th Grade,Middle-income,Japanese,Japanese,Bachelor's degree,,"45678 NE 1st Street, Los Angeles, CA 90012","555-111-2222, akira_sakai@email.com",Bus,No
+S0020,Fatima,Alvarado,Female,13,2010-08-25,7th Grade,High-income,Hispanic,Spanish,Master's degree,Dysgraphia,"90123 SW 6th Street, Chicago, IL 60606","555-444-5555, fatima_alvarado@email.com",Car,No
+S0021,Zainab,Hussain,Female,12,2011-03-05,6th Grade,Low-income,Pakistani,Urdu,High school diploma,,"67890 NE 3rd Avenue, Houston, TX 77054","555-666-7777, zainab_hussain@email.com",Bus,Yes
+S0022,Elijah,Mendez,Male,11,2012-09-22,5th Grade,Middle-income,Hispanic,Spanish,Bachelor's degree,ADHD,"34567 SW 4th Street, San Francisco, CA 94105","555-999-0000, elijah_mendez@email.com",Car,No
+S0023,Nalani,Rao,Female,10,2013-07-18,4th Grade,High-income,Indian,Telugu,Master's degree,,"89012 NW 2nd Avenue, Boston, MA 02201","555-222-3333, nalani_rao@email.com",Walk,No
+S0024,Mateo,Garcia,Male,13,2010-01-15,7th Grade,Low-income,Hispanic,Spanish,High school diploma,Visual impairment,"45678 SE 1st Street, Seattle, WA 98101","555-555-5555, mateo_garcia@email.com",Bus,Yes
+S0025,Sofia,Lee,Female,12,2011-10-25,6th Grade,Middle-income,Korean,Korean,Bachelor's degree,,"23456 NW 3rd Avenue, Denver, CO 80202","555-444-4444, sofia_lee@email.com",Car,No
+S0026,Aisha,Ahmed,Female,11,2012-06-12,5th Grade,High-income,Egyptian,Arabic,Master's degree,Dyscalculia,"90123 SW 5th Street, Dallas, TX 75201","555-333-3333, aisha_ahmed@email.com",Car,No
+S0027,Liam,Martin,Male,10,2013-05-28,4th Grade,Low-income,Irish,English,High school diploma,,"67890 NE 2nd Avenue, Minneapolis, MN 55401","555-111-1111, liam_martin@email.com",Bus,Yes
+17,Nalani,Santos,Female,10,2012-08-12,5th Grade,Middle-income,Filipino,Tagalog,Bachelor’s degree,"Yes, Dyslexia","123 Oak St, San Francisco, CA 94105","phone: 415-123-4567, email: nsantos@gmail.com",Bus,No
+101,Akua,Aboagye,Female,12,2011-03-02,6th Grade,Middle-income,Ghanaian,Twi,Bachelor’s degree,No,"1234 Elm St, Accra, Ghana","Phone: +233 244 123 4567, Email: akua.aboagye@gmail.com",Bus,No
+1001,Akua,Annan,Female,11,2012-03-02,6th Grade,Middle-income,Ghanaian,Akan,Bachelor’s degree,Dyslexia,"12345 5th Street, New York, NY 10001"," Phone: 123-456-7890, Email: annanfamily@gmail.com",Bus,No
+1002,Zayn,Ali,Male,10,2013-01-15,5th Grade,High-income,Pakistani,Urdu,Master’s degree,No,"67890 3rd Street, Los Angeles, CA 90001"," Phone: 987-654-3210, Email: alifamily123@gmail.com",Walk,No
+1003,Maya,Patel,Female,12,2011-06-10,7th Grade,Low-income,Indian,Gujarati,High school diploma,ADHD,"34567 2nd Street, Chicago, IL 60601"," Phone: 555-123-4567, Email: patelfamily123@gmail.com",Car,Yes
+1004,Yara,Santos,Female,11,2012-08-20,6th Grade,Middle-income,Brazilian,Portuguese,Bachelor’s degree,No,"89012 4th Street, Houston, TX 77001"," Phone: 111-222-3333, Email: santosfamily123@gmail.com",Bus,No
+1005,Caleb,Brown,Male,10,2013-04-15,5th Grade,High-income,African American,English,Master’s degree,Speech delay,"45678 1st Street, Miami, FL 33101"," Phone: 444-555-6666, Email: brownfamily123@gmail.com",Car,No
+1006,Liam,Kim,Male,12,2011-09-01,7th Grade,Low-income,Korean,Korean,High school diploma,No,"23456 5th Street, San Francisco, CA 94101"," Phone: 999-888-7777, Email: kimfamily123@gmail.com",Bus,Yes
+1007,Ella,Garcia,Female,11,2012-05-25,6th Grade,Middle-income,Mexican,Spanish,Bachelor’s degree,Autism,"78901 2nd Street, Seattle, WA 98101"," Phone: 666-777-8888, Email: garciamail123@gmail.com",Walk,No
+1008,Ava,Lee,Female,10,2013-06-22,5th Grade,High-income,Chinese,Mandarin,Master’s degree,No,"34567 3rd Street, Denver, CO 80201"," Phone: 555-444-3333, Email: leefamily123@gmail.com",Car,No
+1009,Ethan,Hernandez,Male,12,2011-02-28,7th Grade,Low-income,Puerto Rican,Spanish,High school diploma,Hearing impairment,"56789 1st Street, Dallas, TX 75201"," Phone: 333-444-5555, Email: hernandezfamily123@gmail.com",Bus,Yes
+1010,Isabella,Chen,Female,11,2012-11-15,6th Grade,Middle-income,Chinese,Mandarin,Bachelor’s degree,Vision impairment,"90123 2nd Street, Phoenix, AZ 85001"," Phone: 222-333-4444, Email: chenfamily123@gmail.com",Walk,No
+1011,Mateo,White,Male,10,2013-08-12,5th Grade,High-income,Caucasian,English,Master’s degree,Cerebral palsy,"45678 3rd Street, Atlanta, GA 30301"," Phone: 111-222-3333, Email: whitefamily123@gmail.com",Car,No
+S001234,Nalani,Ramirez,Female,12,2011-08-12,6th Grade,Middle-income,Hispanic,Spanish,Bachelor’s degree,"Yes, ADHD","123 Main St, New York, NY 10001","555-123-4567, nar@family.com",Bus,No
